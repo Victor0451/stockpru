@@ -1,0 +1,1 @@
+export const ip = 'https://sgi.werchow.com:5001/'

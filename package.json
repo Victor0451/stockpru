@@ -1,0 +1,55 @@
+{
+  "name": "stock",
+  "version": "2.3",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "author": {
+    "name": "Ing. en Sistemas Longo Victor Manuel",
+    "email": "victor.m.longo@gmail.com"
+  },
+  "dependencies": {
+    "@chakra-ui/icons": "^1.1.7",
+    "@chakra-ui/react": "^1.8.6",
+    "@emotion/react": "^11.8.2",
+    "@emotion/styled": "^11.8.1",
+    "axios": "^0.26.0",
+    "bwip-js": "^3.1.0",
+    "express": "^4.17.3",
+    "formidable": "^2.0.1",
+    "framer-motion": "^6.2.8",
+    "fs": "^0.0.1-security",
+    "i": "^0.3.7",
+    "js-cookie": "^3.0.1",
+    "jsbarcode": "^3.11.5",
+    "jspdf": "^2.5.1",
+    "moment": "^2.29.1",
+    "multer": "^1.4.4",
+    "mv": "^2.1.1",
+    "next": "^12.1.0",
+    "next-connect": "^0.12.2",
+    "npm": "^8.13.1",
+    "react": "17.0.2",
+    "react-confirm-alert": "^2.8.0",
+    "react-data-export": "^0.4.2",
+    "react-data-table-component": "^7.4.7",
+    "react-dom": "17.0.2",
+    "react-export-excel": "^0.5.3",
+    "react-jsbarcode": "^0.2.4",
+    "react-to-print": "^2.14.7",
+    "react-xls": "^0.1.1",
+    "serverless-mysql": "^1.5.4",
+    "sharp": "^0.30.3",
+    "stream": "^0.0.2",
+    "toastr": "^2.1.4",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "eslint": "8.9.0",
+    "eslint-config-next": "12.0.10"
+  }
+}
